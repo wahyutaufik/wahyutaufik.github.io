@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How To Install Node.js with NVM (Node Version Manager)
+comments: True
 ---
 
 Introduction
