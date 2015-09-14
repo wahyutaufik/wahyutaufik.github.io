@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Wahyu Taufik, you can call me Wahyu. I am a programmer of [Xinix Technology](http://xinix.co.id), an Information Tech Startup at Jakarta, Indonesia.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wahyutaufik37@gmail.com](mailto:wahyutaufik37@gmail.com)
