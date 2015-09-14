@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Pas (Package Management)
+title: pas - another package management and automation
 ---
-
-pas - another package management and automation
-===============================================
 
 [![License](http://img.shields.io/npm/l/pas.svg?style=flat-square)](https://github.com/xinix-technology/pas/blob/master/LICENSE)
 [![Download](http://img.shields.io/npm/dm/pas.svg?style=flat-square)](https://github.com/xinix-technology/pas)
