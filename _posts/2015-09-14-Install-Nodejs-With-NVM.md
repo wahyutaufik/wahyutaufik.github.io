@@ -44,3 +44,32 @@ Alternatively, run the command suggested in the output of the script. Now type:
 ```
 nvm ls-remote
 ```
+To download, compile, and install the latest v0.10.x release of node, do this:
+
+```
+nvm install 0.10
+```
+
+And then in any new shell just use the installed version:
+
+```
+nvm use 0.10
+```
+
+Or you can just run it:
+
+```
+nvm run 0.10 --version
+```
+
+Or, you can run any arbitrary command in a subshell with the desired version of node:
+
+```
+nvm exec 0.10 node --version
+```
+
+To set a default version of npm, just run
+
+```
+nvm alias default 0.10
+```
